@@ -1,0 +1,19 @@
+{
+  "name": "overpay",
+  "version": "1.0.0",
+  "description": "app with the objective to show who earns over priced salaries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/climaco02/overpay.git"
+  },
+  "author": "codeforbrasilia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/climaco02/overpay/issues"
+  },
+  "homepage": "https://github.com/climaco02/overpay#readme"
+}
