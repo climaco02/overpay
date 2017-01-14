@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/climaco02/overpay/issues"
   },
-  "homepage": "https://github.com/climaco02/overpay#readme"
+  "homepage": "https://github.com/climaco02/overpay#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "express-load": "^1.1.15"
+  }
 }
